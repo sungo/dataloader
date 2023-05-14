@@ -87,6 +87,8 @@ See examples/context/main.go for an example.
 */
 package dataloader
 
+// Copyright 2023 sungo, licensed under the MIT license. See LICENSE.md for details
+
 import (
 	"sync"
 	"time"
